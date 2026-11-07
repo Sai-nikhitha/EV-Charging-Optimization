@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.1
+streamlit>=1.40
+plotly>=5.20
+gymnasium>=0.29
+stable-baselines3>=2.3
+torch>=2.2        # CPU build is enough: pip install torch --index-url https://download.pytorch.org/whl/cpu
+pytest>=8.0
